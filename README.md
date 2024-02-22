@@ -1,6 +1,5 @@
 # Deep Sort with PyTorch
 
-
 ![](demo/demo.gif)
 
 <div align="center">
